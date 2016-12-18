@@ -1,17 +1,17 @@
 
 .banner{
   float:left;
-  width:600px;
+  width:66%;
 }
 .banner img{
-  max-width: 100%;
+  width: 100%;
 }
 body{
-  width: 950px;
+  width: 100%;
 }
 aside{
   float:right;
-  max-width: 350px;
+  max-width: 33%;
 }
 aside h2{
   text-align: center;
